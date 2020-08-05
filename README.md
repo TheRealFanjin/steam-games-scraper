@@ -21,3 +21,4 @@ It also needs **Python 3.x** and **Selenium**
 
 * Make it read from file to get info for multiple games at once
 * PyInstaller and equivalent 
+* Get past age restriction 
