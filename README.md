@@ -12,6 +12,7 @@ Available data:
 _More coming soon!_
 
 ## Prerequisites:
+* [Firefox Web Browser](https://www.mozilla.org/en-US/exp/firefox/new/)
 
 ** Only if you want to use with source code **
 
