@@ -20,8 +20,11 @@ This program uses the geckodriver, which you can get here: https://github.com/mo
 
 It also needs **Python 3.x** and **Selenium**
 
+## Update 0.2:
+
+* Added age authentication
+
 ## TODO:
 
 * Make it read from file to get info for multiple games at once
-* PyInstaller and equivalent 
-* Get past age restriction 
+
