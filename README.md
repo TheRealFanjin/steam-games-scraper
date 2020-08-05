@@ -13,6 +13,8 @@ _More coming soon!_
 
 ## Prerequisites:
 
+** Only if you want to use with source code **
+
 This program uses the geckodriver, which you can get here: https://github.com/mozilla/geckodriver/releases
 
 It also needs **Python 3.x** and **Selenium**
