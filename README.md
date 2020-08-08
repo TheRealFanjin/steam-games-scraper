@@ -20,9 +20,12 @@ This program uses the geckodriver, which you can get here: https://github.com/mo
 
 It also needs **Python 3.x** and **Selenium**
 
-## Update 0.2:
+## Update 0.3:
 
-* Added age authentication
+* Added multiple games feature
+* Added compatibility for free games
+* Better error handling
+* More improvements
 
 ## TODO:
 
