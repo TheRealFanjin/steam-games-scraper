@@ -23,7 +23,7 @@ while True:
 print('Starting Browser')
 firefox_options = Options()
 firefox_options.headless = True
-browser = webdriver.Firefox(service_log_path='/tmp/geckodriver.log')
+browser = webdriver.Firefox(options=firefox_options, service_log_path='/tmp/geckodriver.log')
 print('Retrieving website')
 browser.get('https://store.steampowered.com/')
 
